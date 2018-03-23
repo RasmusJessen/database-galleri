@@ -1,0 +1,14 @@
+{
+  "name": "database_galleri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rasmus",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
